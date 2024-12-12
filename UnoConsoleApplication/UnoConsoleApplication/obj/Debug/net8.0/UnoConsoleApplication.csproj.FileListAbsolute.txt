@@ -1,0 +1,15 @@
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.AssemblyInfo.cs
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.sourcelink.json
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\bin\Debug\net8.0\UnoConsoleApplication.exe
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\bin\Debug\net8.0\UnoConsoleApplication.deps.json
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\bin\Debug\net8.0\UnoConsoleApplication.runtimeconfig.json
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\bin\Debug\net8.0\UnoConsoleApplication.dll
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\bin\Debug\net8.0\UnoConsoleApplication.pdb
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.dll
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\refint\UnoConsoleApplication.dll
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.pdb
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\UnoConsoleApplication.genruntimeconfig.cache
+C:\Users\jseim\source\repos\Uno\UnoConsoleApplication\UnoConsoleApplication\obj\Debug\net8.0\ref\UnoConsoleApplication.dll

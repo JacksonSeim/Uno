@@ -24,6 +24,7 @@ namespace UnoConsoleApplication
     }
     public enum State
     {
-
+        Init,
+        GetNewPlayers
     }
 }

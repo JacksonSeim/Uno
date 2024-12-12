@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 
 namespace UnoConsoleApplication
 {
-    public delegate void FormInput();
-    public delegate void UpdateForm();
+    public delegate void FormInput(State s, string[] args);
+    public delegate void UpdateForm(State s, string[] args);
 }
