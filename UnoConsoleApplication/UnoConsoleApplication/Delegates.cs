@@ -6,12 +6,6 @@ using System.Threading.Tasks;
 
 namespace UnoConsoleApplication
 {
-    public class HumanPlayer : Player
-    {
-
-        public HumanPlayer(string u) : base(u)
-        {
-
-        }
-    }
+    public delegate void FormInput();
+    public delegate void UpdateForm();
 }

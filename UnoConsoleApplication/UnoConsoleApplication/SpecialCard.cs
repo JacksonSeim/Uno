@@ -8,6 +8,11 @@ namespace UnoConsoleApplication
 {
     public class SpecialCard : Card
     {
+        public SpecialAbility Ability;
 
+        public SpecialCard(Color c, bool indeck, SpecialAbility sa) : base(c, indeck)
+        {
+            Ability = sa;
+        }
     }
 }

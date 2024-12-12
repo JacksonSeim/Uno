@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace UnoConsoleApplication
 {
-    public class ComputerPlayer
+    public class ComputerPlayer : Player
     {
 
+        public ComputerPlayer(string u) : base(u)
+        {
+
+        }
     }
 }

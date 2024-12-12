@@ -8,6 +8,11 @@ namespace UnoConsoleApplication
 {
     public class NumberCard : Card
     {
+        public int Number;
 
+        public NumberCard(Color c, bool indeck, int num) : base(c, indeck)
+        {
+            Number = num;
+        }
     }
 }

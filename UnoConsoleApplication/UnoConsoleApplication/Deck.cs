@@ -11,6 +11,16 @@ namespace UnoConsoleApplication
     {
         public List<Card> _deck = new List<Card>();
 
+        public Deck()
+        {
+            FillDeckFullOfCards();
+        }
+
+        public void FillDeckFullOfCards()
+        {
+
+        }
+
         #region ICollectionMethods
         public int Count => ((ICollection<Card>)_deck).Count;
 

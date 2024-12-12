@@ -8,6 +8,13 @@ namespace UnoConsoleApplication
 {
     public class Player
     {
+        public string Username;
+        public List<Card> Hand;
 
+        public Player(string u)
+        {
+            Username = u;
+            Hand = new List<Card>();
+        }
     }
 }
