@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnoConsoleApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d336ba44184fd205aa70f568b8436d6c63dfb613")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7442748423dab0815d11f83296dc6c1211520cb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnoConsoleApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnoConsoleApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
